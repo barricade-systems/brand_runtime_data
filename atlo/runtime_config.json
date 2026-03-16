@@ -1,3 +1,5 @@
 {
-    "inAppDisplayName": "Atlo"
+    "inAppDisplayName": "Atlo",
+    "privacyPolicyUrl": "https://shieldpoint.com/privacy-policy",
+    "termsAndConditionsUrl": "https://shieldpoint.com/terms-and-conditions"
 }

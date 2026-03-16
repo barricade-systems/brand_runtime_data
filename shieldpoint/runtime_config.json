@@ -1,3 +1,5 @@
 {
-    "inAppDisplayName": "Shieldpoint"
+    "inAppDisplayName": "Shieldpoint",
+    "privacyPolicyUrl": "https://atlo.no/personvernerklaering/",
+    "termsAndConditionsUrl": "https://atlo.tawk.help/"
 }
